@@ -33,4 +33,4 @@ The dashboard enables quick, data-informed decisions by displaying sales trends 
 - `db_dump.sql`: Database dump file.
 - `sales_analysis.sql`: SQL scripts for data analysis.
 - `sales_dashboard.pbix`: Power BI dashboard file.
-- `dashboard_screenshots/`: Folder containing screenshots of the Power BI dashboard.
+- `dashboard_screenshots`: Screenshots of the Power BI dashboard and a PDF format file.
